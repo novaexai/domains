@@ -1,28 +1,28 @@
 {
   "version": 1,
-  "primary": "https://app.novaexai.com",
+  "primary": "https://api.novaexai.com",
   "domains": [
     {
       "id": 1,
-      "url": "https://app.novaexai.com",
+      "url": "https://api.novaexai.com",
       "status": "active",
       "desc": "Main line (priority use)"
     },
     {
       "id": 2,
-      "url": "https://app.novaexs.com",
+      "url": "https://api.novaexs.com",
       "status": "backup",
       "desc": "Backup Line 1"
     },
     {
       "id": 3,
-      "url": "https://app.anovaexi.com",
+      "url": "https://api.anovaexi.com",
       "status": "backup",
       "desc": "Backup Line 2"
     },
     {
       "id": 4,
-      "url": "https://app.novaex.io",
+      "url": "https://api.novaex.io",
       "status": "backup",
       "desc": "Backup Line 3"
     }
