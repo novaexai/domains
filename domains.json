@@ -22,7 +22,7 @@
     },
     {
       "id": 4,
-      "url": "https://m.novaex.io",
+      "url": "https://api.novaex.io",
       "status": "backup",
       "desc": "Backup Line 3"
     }
