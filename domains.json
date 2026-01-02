@@ -16,12 +16,6 @@
     },
     {
       "id": 3,
-      "url": "https://api.anovaexi.com",
-      "status": "backup",
-      "desc": "Backup Line 2"
-    },
-    {
-      "id": 4,
       "url": "https://api.novaex.io",
       "status": "backup",
       "desc": "Backup Line 3"
