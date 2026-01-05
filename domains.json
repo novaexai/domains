@@ -16,7 +16,7 @@
     },
     {
       "id": 3,
-      "url": "https://novaexai.io",
+      "url": "https://api.novaexai.io",
       "status": "backup",
       "desc": "Backup Line 3"
     }
